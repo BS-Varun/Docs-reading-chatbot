@@ -1,2 +1,2 @@
-# Task2
-Code to click a button facebook/gmail
+# Chatbot using Langchain
+A smart chatbot to read your files and answer your questions
